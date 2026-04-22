@@ -1,8 +1,8 @@
 {
-  "BOTNAME": "🩷𓆩๛⃝𝗠𝐚ɴ❍𓆪𓆤",
+  "BOTNAME": "🩷chııku ℘ııə ⎯ ",
   "PREFIX": ".",
   "ADMINBOT": [
-    "100009012838085"
+    "6157427031485"
   ],
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😡",
@@ -16,7 +16,7 @@
   "AUTO_RESTART_MINUTES": 120,
   "LOG_MESSAGES": true,
   "IGNORED_USERS": [
-    "100004005296547"
+    "6157427031485"
   ],
   "DISABLED_COMMANDS": [],
   "AUTO_CREATE_GROUP": false
